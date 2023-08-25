@@ -1,5 +1,7 @@
 # streaming-01-getting-started
 
+Priyanka Gorentla- Module 1 Assignment
+
 > Get started with Python for streaming analytics
 
 Set yourself up for productivity and collaboration.
